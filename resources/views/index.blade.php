@@ -29,13 +29,12 @@
         </p>
         <img class="logo-tangan" src="/img/background2.png">
         <div class="wrapper-center">
-            <p class="bigger"> <i>Sebelum masuk ke Website, mari beritahu kami anda siapa</i> </p>
+            <p class="bigger"> <i>Sebelum masuk ke Website, Kami Ingin Tahu Kamu Siapa</i> </p>
             <div class="button">
-                <a href="/login/admin"><button type="button">ADMIN</button> </a>
-                <a href="/login/user" class="pendonor"> <button type="button" class="pendonor">PENDONOR</button> </a>
+                <a href="/login/user"><button type="button">pendonor</button> </a>
+            
             </div>
-            <dev class="atau">
-                <span> <i>atau</i> </span class="atau">
+    
             </dev>
         </div>
 

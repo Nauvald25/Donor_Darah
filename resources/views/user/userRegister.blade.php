@@ -47,7 +47,7 @@
                         <input type="number" name="nik" placeholder="NIK" required>
                         <input type="tel" name="no_telepon" placeholder="Nomor Telepon" required>
                         <input type="text" name="email" placeholder="Email" required>
-                        <input type="text" name="tempat_lahir" placeholder="Tempat Lahir" required>
+                        <input type="text" name="Umur" placeholder="Umur" required>
                         <input type="text" name="alamat_lengkap" placeholder="Alamat Lengkap" required>
                         <p>Jenis Kelamin :</p>
                         <label>

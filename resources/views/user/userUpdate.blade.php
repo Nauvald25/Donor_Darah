@@ -68,8 +68,8 @@
                                 <td>:<input type="text" name="email" value="{{ $user->email }}" required></td>
                             </tr>
                             <tr>
-                                <td>Tempat Lahir</td>
-                                <td>:<input type="text" name="tempat_lahir" value="{{ $user->tempat_lahir }}"
+                                <td>Umur</td>
+                                <td>:<input type="text" name="Umur" value="{{ $user->tempat_lahir }}"
                                         required>
                                 </td>
                             </tr>
